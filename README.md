@@ -16,5 +16,5 @@ Learn how to extract raw data from various sources, transform this raw data into
 *	Extract: get data from several sources
 *	Transform: perform transformations using parallel computing
 *	Load: load data into target database
-### Case study
+### Case study [Notebook](https://github.com/cc59chong/Introduction-to-Data-Engineering/blob/main/Introduction%20to%20Data%20Engineering%20-%20Case%20Study.ipynb)
 Perform and schedule an ETL process that transforms raw course rating data, into actionable course recommendations for students!
